@@ -118,8 +118,6 @@ If you want to utilize the transaction feature, you must use MongoDB Atlas along
 
 ## Contributors
 
-## Contributors
-
 - [Asad Patel](https://github.com/asad2050)
 - [Aditya Pandey](https://github.com/Adityapandey06)
 - Khushi Chaudhari
