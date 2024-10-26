@@ -1,4 +1,4 @@
-# HSA (Health Stack App) 💰
+# HSA (Health Stack App) 🩺
 
 Welcome to **HSA (Health Stack App)**! Our comprehensive health application is designed to manage all aspects of health data, providing real-time tracking and analysis for users. With an array of features and functionalities, we've redefined health management.
 
