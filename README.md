@@ -120,8 +120,8 @@ If you want to utilize the transaction feature, you must use MongoDB Atlas along
 
 - [Asad Patel](https://github.com/asad2050)
 - [Aditya Pandey](https://github.com/Adityapandey06)
-- Khushi Chaudhari
-- Kaif Raza Shaikh
+- [Khushi Chaudhari](https://github.com/khushichaudhari02)
+- [Kaif Raza Shaikh](https://github.com/kaif2011)
 
 
 ## Notes ⚠️
